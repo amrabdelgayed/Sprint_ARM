@@ -66,13 +66,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-f9a50c895aad.js"></script>
   
 
-  <title>Sprints_ARM_MC02/IntCtrl_Lcfg.c at master · melzeny/Sprints_ARM_MC02</title>
+  <title>Sprints_ARM_MC02/IntCtrl.c at master · melzeny/Sprints_ARM_MC02</title>
 
 
 
     
 
-  <meta name="request-id" content="FA03:3FEA:1F50DE9:20A77D2:635409EA" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ed03e6cf66a23065703ba5c0d64bbc39e1cb56eca92c96b2a1931742b829c7e8" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tZWx6ZW55L1NwcmludHNfQVJNX01DMDIvZmluZC9tYXN0ZXIiLCJyZXF1ZXN0X2lkIjoiRkEwMzozRkVBOjFGNTBERTk6MjBBNzdEMjo2MzU0MDlFQSIsInZpc2l0b3JfaWQiOiI4NTY0MDE5ODkwNTc4NzMxMjk5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="e687dc72d7899d9b98120378aacc2da7311d7390887f0045d689449ed5c95731" data-turbo-transient="true" />
+  <meta name="request-id" content="FA03:3FEA:1F6068B:20B7BD1:63540A27" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ed03e6cf66a23065703ba5c0d64bbc39e1cb56eca92c96b2a1931742b829c7e8" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tZWx6ZW55L1NwcmludHNfQVJNX01DMDIvZmluZC9tYXN0ZXIiLCJyZXF1ZXN0X2lkIjoiRkEwMzozRkVBOjFGNjA2OEI6MjBCN0JEMTo2MzU0MEEyNyIsInZpc2l0b3JfaWQiOiI4NTY0MDE5ODkwNTc4NzMxMjk5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="2f04e2975131e5e2d6293c1d5a95e839913aa1323584718970242d4bdcc45f7c" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:290636707" data-turbo-transient>
 
@@ -110,11 +110,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3222b29c8763a835bbc6bd97691278c873651a43555f2ada74e4826a10a28375/melzeny/Sprints_ARM_MC02" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Sprints_ARM_MC02/IntCtrl_Lcfg.c at master · melzeny/Sprints_ARM_MC02" /><meta name="twitter:description" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/3222b29c8763a835bbc6bd97691278c873651a43555f2ada74e4826a10a28375/melzeny/Sprints_ARM_MC02" /><meta property="og:image:alt" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sprints_ARM_MC02/IntCtrl_Lcfg.c at master · melzeny/Sprints_ARM_MC02" /><meta property="og:url" content="https://github.com/melzeny/Sprints_ARM_MC02" /><meta property="og:description" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/3222b29c8763a835bbc6bd97691278c873651a43555f2ada74e4826a10a28375/melzeny/Sprints_ARM_MC02" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Sprints_ARM_MC02/IntCtrl.c at master · melzeny/Sprints_ARM_MC02" /><meta name="twitter:description" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/3222b29c8763a835bbc6bd97691278c873651a43555f2ada74e4826a10a28375/melzeny/Sprints_ARM_MC02" /><meta property="og:image:alt" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Sprints_ARM_MC02/IntCtrl.c at master · melzeny/Sprints_ARM_MC02" /><meta property="og:url" content="https://github.com/melzeny/Sprints_ARM_MC02" /><meta property="og:description" content="Contribute to melzeny/Sprints_ARM_MC02 development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/8389750/ws?session=eyJ2IjoiVjMiLCJ1Ijo4Mzg5NzUwLCJzIjo5NzcyOTc1OTEsImMiOjI2NTQzNjQwOTUsInQiOjE2NjY0NTE5NTh9--d5bb34f6aa29443fe87e144a2a81973c78e502a756d68b0c840f67b2d5dc064b" data-refresh-url="/_alive" data-session-id="ab633b769b04385e50c3dfbc98429a50a2e4967eaef2afe1a380fb1d5a19fcb4">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/8389750/ws?session=eyJ2IjoiVjMiLCJ1Ijo4Mzg5NzUwLCJzIjo5NzcyOTc1OTEsImMiOjMwMzAxOTUwNjAsInQiOjE2NjY0NTIwMjh9--3b60237a8dc69cfaa01dad38dda2329e28a788cbe4d0e3c306861172412e2526" data-refresh-url="/_alive" data-session-id="ab633b769b04385e50c3dfbc98429a50a2e4967eaef2afe1a380fb1d5a19fcb4">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -144,7 +144,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -235,7 +235,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="9MqguzCvPYo1W8Af_lTD4kLtZMoMk_g5zXYz6PrekbqOUzCvznpoSDRhA6ekaY7sULxQu_6DTgA5qf23SOWEWQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="4x33_VLe3eHbAUIzJCCmLoJWSPcwrDBZdsDx91IOk6-ZhGfprAuII9o7gYt-HesgkAd8hsK8hmCCHz-o4DWGTA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -434,7 +434,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;amrabdelgayed&quot;,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="5585080a34faee8ff576183e9c910425fc0bc456de5743fcd7b12b51b9c54e94" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;amrabdelgayed&quot;,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="0e74fc7696d2acf9a93acf581b443d753afa9cb609e38e77d5f4ae797aaa1a0e" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -442,7 +442,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/8389750?s=40&amp;v=4" width="20" height="20" alt="@amrabdelgayed" />
       amrabdelgayed
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eWLHWlNKUwTNfynzF33SP6lMOTqiXuYpF7ph3Eop1IeMQ2ntrAAqHi3cHsoy4IoG6u4s62lW9nTnXDTVNGuYWA" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="w9DuFozbuFHMRabVBlRyikE2aNDR0mVnWcgbom8vXrY28UChc5HBSyzmkewjySqzApR9ARradTqpLk6rEW0SaQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -477,7 +477,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM4OTc1MCIsInQiOjE2NjY0NTE5NTh9--e5024ead2fdfd2b354b36d88bbd725f1b558593f5ccc9e4462be07aa4b0111f6" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM4OTc1MCIsInQiOjE2NjY0NTIwMjh9--e3c90a81f59611e85800675e78b588a764cda80b9bfb8f142033caade41eeeb4" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -632,7 +632,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c
+      return-to=/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c
       user-id="8389750"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1598,7 +1598,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="119c54a51b6aecd4482730d36d5fe086f56a39ce3504f643991f1ef51836edfa" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="03b37cf51fa0a7b2dd35c83fffef6b0fd4529c8b37f08fadb0fccb5c1bd95b22" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1650,7 +1650,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="g9huIeGB1vHgczJ3OHYOz1q65bBVo60vCNQfPFYxSCc_tZ-mBI_y3CaL5Ofos-ZqxmZrsq2RMZrPrjsFlxpX3w" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3pWVwHt8Ir2xH6JaIs5mpVW-wBGWvr4aKiuMrOXkJ0Ni-GRHnnIGkHfndMryC44AyWJOE26MIq_tUaiVJM84uw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="290636707">
 
@@ -1778,7 +1778,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nn7PzVAU0PGANFq7xf0mLVPwfi82VcLuf9iITpTmNZ-KEz5KtRr03EbMjCsVOM6IzyzwLc5nXlu4oqx3Vc0qZw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3ohXTpb6-s1t5nxzSYUoDcUPQmSmI3M0Vsptpsyysqli5abJc_Te4KsequOZQMCoWdPMZl4R74GRsEmfDZmtUQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="290636707">
 
@@ -1929,7 +1929,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/melzeny/Sprints_ARM_MC02/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="d539d7eaf26486765b2a23fb8dbd3c554ec712ab4cc42a74ba1923cf496d6080" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of melzeny/Sprints_ARM_MC02" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/melzeny/Sprints_ARM_MC02/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="62da41ab56556b5880d97bd0793cf063e5bc25d494f5aeae73453ae1ba1557bf" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of melzeny/Sprints_ARM_MC02" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="9" data-view-component="true" class="Counter">9</span>
@@ -1947,13 +1947,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ad3fe0">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-82515d">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-ad3fe0"
+        id="filter-menu-82515d"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1995,10 +1995,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8crJ9l3P5UMJxpdcY6X9WessgNfiyu7FQg7NpoHJ_LfeLsqdLwPF9fUt0k9jDXNGby-Fkaeqd2Ex1TV1hUKi5w" autocomplete="off" />
-          <input type="hidden" value="azpVNY4MDuniXzbad33g8Zz4jIqoFj6PdYlSU8IMehFE3lZe_MAuXx60c8l31W7uGPuJzO12pysGUqqAxockQQ" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PiBvnO95IFYhHsbyEzHG9XQuhhaWX89CdG8qbjm6h90RxGz3nbUA4N31g-ETmUjq8C2DUNM_VuYHtNK9PTHZjQ" autocomplete="off" />
+          <input type="hidden" value="FBEpmTgD_Pjt8nV2uj5HUnfg7x7g59kzJ1EdSGvFAeY79SrySs_cThEZMGW6lslN8-PqWKWHQJdUiuWbb05ftg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="80c0d4a8b491e4ac5a9e19bcb301dc0a44a724f7eacf2616208357c1bf56c7d4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (12)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="3a1e60009443b44cbdd9bc63c6f159fbe014af0204c7ae5bfedd55953fa59c2d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (12)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2016,13 +2016,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1f4187">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3dd4cc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-1f4187"
+        id="filter-menu-3dd4cc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2043,9 +2043,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MLeokI9WY6LXW9nOUwFFm6bIdBUqBLxWg8Bsfp3lDbclq9jP21lR0N1KRjihi6L0HWWY3H37zVisvHfsejmbvQ" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SN3Y5MQvqDEZKFzBXyD_AcnAG-jw4N9agRDvEmnf7JFdwai7kCCaQxM5wzetqhhucm33IacfrlSubPSAjgN6mw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="f9275773db386030b1a0a194182f740c192f110c6ca7f8425bf9af51c877bf2d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (12)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="b989ce30e97e1cf01dc20b61cc6bd23535507d1ffbea022f3b77c94a86eb0da8" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (12)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2063,13 +2063,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1f4187">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-3dd4cc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-1f4187"
+        id="filter-menu-3dd4cc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2258,7 +2258,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/melzeny/Sprints_ARM_MC02/blob/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/melzeny/Sprints_ARM_MC02/blob/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2266,7 +2266,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="7ac39194472f231469490514f2c6ae1b7fd2fc93731c7806f8898f62295521e7">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="6edac50dff9741a8586ffc791f0ddaba15a45d247735f606b51a287d9a3f4711">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2345,7 +2345,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/melzeny/Sprints_ARM_MC02/blob/{{ urlEncodedRefName }}/Src/Config/IntCtrl_Lcfg.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/melzeny/Sprints_ARM_MC02/blob/{{ urlEncodedRefName }}/Src/Mcal/IntCtrl.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2385,7 +2385,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/melzeny/Sprints_ARM_MC02/blob/{{ urlEncodedRefName }}/Src/Config/IntCtrl_Lcfg.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/melzeny/Sprints_ARM_MC02/blob/{{ urlEncodedRefName }}/Src/Mcal/IntCtrl.c" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2446,7 +2446,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02"><span>Sprints_ARM_MC02</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02/tree/master/Src"><span>Src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02/tree/master/Src/Config"><span>Config</span></a></span><span class="separator">/</span><strong class="final-path">IntCtrl_Lcfg.c</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02"><span>Sprints_ARM_MC02</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02/tree/master/Src"><span>Src</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/melzeny/Sprints_ARM_MC02/tree/master/Src/Mcal"><span>Mcal</span></a></span><span class="separator">/</span><strong class="final-path">IntCtrl.c</strong>
   </h2>
     <a href="/melzeny/Sprints_ARM_MC02/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2457,7 +2457,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="84fc4a5de1eb2705a03515f9875964c6e56db5e4896d46569df1832248f90618" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/melzeny/Sprints_ARM_MC02/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="38b44721f96e98a310ff184b68dd62ae9670729be630b42fbc91f4e71e859ea8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/melzeny/Sprints_ARM_MC02/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2469,13 +2469,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Src/Config/IntCtrl_Lcfg.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Src/Mcal/IntCtrl.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/melzeny/Sprints_ARM_MC02/blob/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/melzeny/Sprints_ARM_MC02/blob/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2507,7 +2507,7 @@
     <include-fragment src="/melzeny/Sprints_ARM_MC02/spoofed_commit_check/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/melzeny/Sprints_ARM_MC02/contributors/master/Src/Config/IntCtrl_Lcfg.c" class="commit-loader">
+  <include-fragment src="/melzeny/Sprints_ARM_MC02/contributors/master/Src/Mcal/IntCtrl.c" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2541,23 +2541,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      33 lines (26 sloc)
+      73 lines (55 sloc)
       <span class="file-info-divider"></span>
-    1.76 KB
+    3.83 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/melzeny/Sprints_ARM_MC02/raw/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c" href="/melzeny/Sprints_ARM_MC02/raw/master/Src/Config/IntCtrl_Lcfg.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/melzeny/Sprints_ARM_MC02/blame/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c" href="/melzeny/Sprints_ARM_MC02/blame/master/Src/Config/IntCtrl_Lcfg.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/melzeny/Sprints_ARM_MC02/raw/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c" href="/melzeny/Sprints_ARM_MC02/raw/master/Src/Mcal/IntCtrl.c" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/melzeny/Sprints_ARM_MC02/blame/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c" href="/melzeny/Sprints_ARM_MC02/blame/master/Src/Mcal/IntCtrl.c" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/melzeny/Sprints_ARM_MC02/edit/master/Src/Config/IntCtrl_Lcfg.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YU2SGfNeI78eYOP_cvVcSGYZm-c4LHXkXp6dzzhD39OHor5ReiXxg2-Bd7LqdCcMvlkzM1ANKNZj4QOyhsllIA" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/melzeny/Sprints_ARM_MC02/edit/master/Src/Mcal/IntCtrl.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8HgMRUCQxLH8jyTwSq1isuddcKY-pquA8k8xV-weuNFB9OgxfrgBdcIfBBv4k4kgSHyCs1ZsXqr_DdLE98JcSQ" autocomplete="off" />
       <button title="Fork this project and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2567,7 +2567,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/melzeny/Sprints_ARM_MC02/edit/master/Src/Config/IntCtrl_Lcfg.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nq93zyvSSbPuVbUiopU30G-B12kmaexwoRy_1BxMyFnQQFuHoqmbj5-0IW86FEyUt8F_vU5IsUKcYyGposZyqg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/melzeny/Sprints_ARM_MC02/edit/master/Src/Mcal/IntCtrl.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uAt_54b0LuoPcYI0npd3briOWnHGmW19EwnqWJTUXj4Jh5uTuNzrLjHhot8sqZz8F6-oZK5TmFceSwnLjwi6pg" autocomplete="off" />
               <button title="Fork this project and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2586,10 +2586,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/melzeny/Sprints_ARM_MC02/raw/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/melzeny/Sprints_ARM_MC02/raw/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="3515249b98bd43fb074d4050868143e5f7bdd4fb5091c5c2c8bcc43f151ba870" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="65da75700d4614a55fec7f21f05a8a9e8a0297bf346bb9bb5547ae59aab42f25" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2614,7 +2614,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/delete/master/Src/Config/IntCtrl_Lcfg.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xrjk5jZLn6SESHwG8EPo1FNfd9cufv-dUJDZDJz1LC5DEkSYNUv0lNPbnLtkVQ__wLtrT_G_rpZCxXKsCRalPg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/melzeny/Sprints_ARM_MC02/delete/master/Src/Mcal/IntCtrl.c" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-7wWbjbRUCC6QkHME5VZWBVzoZdKRqymPQUvitx7OUl8ZofD5DRUiEWJmKMV4PawASTWVWO3ZtMd-NzQTHvizw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2647,15 +2647,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/raw/master/Src/Config/IntCtrl_Lcfg.c">
+            <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/raw/master/Src/Mcal/IntCtrl.c">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/melzeny/Sprints_ARM_MC02/raw/master/Src/Config/IntCtrl_Lcfg.c" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/melzeny/Sprints_ARM_MC02/raw/master/Src/Mcal/IntCtrl.c" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Config/IntCtrl_Lcfg.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="3515249b98bd43fb074d4050868143e5f7bdd4fb5091c5c2c8bcc43f151ba870">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:290636707,&quot;originating_url&quot;:&quot;https://github.com/melzeny/Sprints_ARM_MC02/blob/master/Src/Mcal/IntCtrl.c&quot;,&quot;user_id&quot;:8389750}}" data-hydro-click-hmac="65da75700d4614a55fec7f21f05a8a9e8a0297bf346bb9bb5547ae59aab42f25">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2678,20 +2678,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/blame/master/Src/Config/IntCtrl_Lcfg.c">
+              <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/blame/master/Src/Mcal/IntCtrl.c">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/edit/master/Src/Config/IntCtrl_Lcfg.c">Edit file</a>
+                <a class="dropdown-item" href="/melzeny/Sprints_ARM_MC02/edit/master/Src/Mcal/IntCtrl.c">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:290636707,&quot;actor_id&quot;:8389750,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/melzeny/Sprints_ARM_MC02/delete/master/Src/Config/IntCtrl_Lcfg.c">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/melzeny/Sprints_ARM_MC02/delete/master/Src/Mcal/IntCtrl.c">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2728,7 +2728,7 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="Src/Config/IntCtrl_Lcfg.c">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="C" data-tagsearch-path="Src/Mcal/IntCtrl.c">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
           <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
@@ -2743,11 +2743,11 @@
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*        \file  IntCtrl_Lcfg.c</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*        \file  IntCrtl.c</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *        \brief  </span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *        \brief  Nested Vector Interrupt Controller Driver</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
@@ -2755,11 +2755,11 @@
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *      \details  </span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *      \details  The Driver Configure All MCU interrupts Priority into gorups and subgroups</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *                Enable NVIC Interrupt Gate for Peripherals</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
@@ -2792,64 +2792,62 @@
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>IntCrtl.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">#<span class="pl-k">include</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Mcu_Hw.h<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*  LOCAL MACROS CONSTANT\FUNCTION</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c">********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*  LOCAL MACROS CONSTANT\FUNCTION</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c">********************************************************************************************************************<span class="pl-c">*/</span></span>	</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  LOCAL DATA </span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  LOCAL DATA </span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  GLOBAL DATA</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  GLOBAL DATA</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
@@ -2862,11 +2860,182 @@
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  END OF FILE: IntCtrl_Lcfg.c</span></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  LOCAL FUNCTION PROTOTYPES</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
           <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  LOCAL FUNCTIONS</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  GLOBAL FUNCTIONS</span></td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*****************************************************************************</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Syntax          : void IntCrtl_Init(void)                                      </span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Description     : initialize Nvic\SCB Module by parsing the Configuration </span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*                    into Nvic\SCB registers                                    </span></td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class="pl-c">*                                                                             </span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Sync\Async      : Synchronous                                               </span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Reentrancy      : Non Reentrant                                             </span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Parameters (in) : None                     </span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Parameters (out): None                                                      </span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c">* \Return value:   : None</span></td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-c">******************************************************************************<span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-k">void</span> <span class="pl-en">IntCrtl_Init</span>(<span class="pl-k">void</span>)</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">{</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span>TODO Configure Grouping\SubGrouping System in APINT register in SCB<span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">    APINT = <span class="pl-c1">0xFA05</span>|<span class="pl-c1">0x00001234</span>;</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>TODO : Assign Group\Subgroup priority in NVIC_PRIx Nvic and SCB_SYSPRIx Registers<span class="pl-c">*/</span></span>  </td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">	<span class="pl-c"><span class="pl-c">/*</span>TODO : Enable\Disable based on user configurations in NVIC_ENx and SCB_Sys Registers <span class="pl-c">*/</span></span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">	</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>*********************************************************************************************************************</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> *  END OF FILE: IntCrtl.c</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line"><span class="pl-c"> ********************************************************************************************************************<span class="pl-c">*/</span></span></td>
         </tr>
   </table>
 </div>
@@ -2892,7 +3061,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/melzeny/Sprints_ARM_MC02/blame/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Config/IntCtrl_Lcfg.c">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/melzeny/Sprints_ARM_MC02/blame/65a38ed58db3ab29839b85ca78dbf2b34e43aa3a/Src/Mcal/IntCtrl.c">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/melzeny/Sprints_ARM_MC02/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
